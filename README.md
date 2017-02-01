@@ -1,4 +1,4 @@
-# Activity-3---Operating-Overloading-Part-3
+# Activity-3---Operating-Overloading-Part-2
 
 #### Set up a CPU class
 ##### Attributes
