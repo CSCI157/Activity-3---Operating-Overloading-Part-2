@@ -77,8 +77,11 @@ eq - compare all of the attributes.
 gt - opposite of lt.
 in - check if the keyword is in any of the composed classes.
  
-#### More on in
+#### More on __in__
 If you have instatiated a computer, a use should be able to look for components of the computer using the in operator. So "Intel" in computer should list all of the computers that have intel as a manufacturer somewhere. Similarly "Rambus" in computer should list all of the computer that are using Rambus.
+
+
+__init__ - all init methods are going to come through the command line, no inputs.
 
 #### Instantiate
 Processors: Intel Core i5-6600K, Intel Core i3-6100, and an AMD-FX_8250
