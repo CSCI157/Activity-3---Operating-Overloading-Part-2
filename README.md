@@ -87,56 +87,56 @@ __init__ - all init methods are going to come through the command line, no input
 #### Instantiate
 Processors: 
 * Intel Core i5-6600K<br />
-  ** quad core
-  ** 3.5 GHz
-  ** 6M cache
-  ** rating 8
+  * quad core
+  * 3.5 GHz
+  * 6M cache
+  * rating 8
   
 * Intel Core i3-6100<br />
-   ** dual core
-   ** 3.7 GHz
-   ** 3M cache
-   ** rating 7
+   * dual core
+   * 3.7 GHz
+   * 3M cache
+   * rating 7
    
 * AMD-FX_8320<br />
-  ** 8 cores
-  ** 4.0 GHz
-  ** 8MB cache
-  ** rating 9
+  * 8 cores
+  * 4.0 GHz
+  * 8MB cache
+  * rating 9
   
 * Intel Core 2 3.6 GHz
-  ** 3.6 Ghz
-  ** dual core
-  ** 6M cache
-  ** rating 7
+  * 3.6 Ghz
+  * dual core
+  * 6M cache
+  * rating 7
   
 * Intel Core 2 4.0 GHz
-  ** 4.0 Ghz
-  ** dual core
-  ** 8M cache
-  ** rating 9
+  * 4.0 Ghz
+  * dual core
+  * 8M cache
+  * rating 9
   
 Hard Drives: 
 * Western Digital Jim Bob
-  ** 4TB 
-  ** data transfer 6Gbps
-  ** cache 32MB
+  * 4TB 
+  * data transfer 6Gbps
+  * cache 32MB
   
 * Seagate Jane Bob
-  ** 4TB
-  ** data transfer 4Gbps
-  ** cache 64MB
+  * 4TB
+  * data transfer 4Gbps
+  * cache 64MB
 
 Graphics Cards: 
 * EVGA GeForce GTX 1050 Ti SC GAMING
-  ** 4GB GDDR5 ram
-  ** Intel core 2 processor 2.6GHz
-  ** 12GB ram
+  * 4GB GDDR5 ram
+  * Intel core 2 processor 2.6GHz
+  * 12GB ram
   
 * Gigabyte Radeon Rx 460 Windforce
-  ** 4GB GDDR4 ram
-  ** Intel core 2 processor - 4GHz
-  ** 16Gb ram
+  * 4GB GDDR4 ram
+  * Intel core 2 processor - 4GHz
+  * 16Gb ram
 
 Ram: 
 * 32Gb of Rambus<br />
@@ -146,7 +146,7 @@ Ram:
 * Print the values of a processor, hard drive, and graphics card using you str method.
 * Compare two processors, two hard drives, and two graphics using lt
 * Build two computes using these components, one of them using the GeForce graphics card.  
-  ** Print one of the computers
-  ** Show that your in function for the computer works be checking GeForce.
-  ** Compare the two computers
+  * Print one of the computers
+  * Show that your in function for the computer works be checking GeForce.
+  * Compare the two computers
 
