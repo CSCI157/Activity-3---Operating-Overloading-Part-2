@@ -2,7 +2,7 @@
 
 #### Set up a CPU class
 ##### Attributes
-manufacturer - string
+manufacturer - string<br />
 processor type - string
 processor speed - float
 processsor cache - int
