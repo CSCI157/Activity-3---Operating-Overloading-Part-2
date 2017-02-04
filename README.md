@@ -90,12 +90,15 @@ Processors:
 * Intel Core i3-6100<br />
 * AMD-FX_8250<br />
 * Intel Core 2 
+
 Hard Drives: 
 * Western Digital, 4TB, data transfer 6Gbps, cache 32MB<br />
 * Seagate, 4TB, data transfer 4Gbps, cache 64MB<br />
+
 Graphics Cards: 
 * EVGA GeForce GTX 1050 Ti SC GAMING, 4GB GDDR5 with Intel core 2 processor - 3GHz with 8Gb ram<br />
 * Gigabyte Radeon Rx 460 Windforce, 4GB GDDR4, with Intel core 2 processor - 4GHz with 16Gb ram<br />
+
 Ram: 
 * 32Gb of Rambus<br />
 * 64Gb of DDR<br />
