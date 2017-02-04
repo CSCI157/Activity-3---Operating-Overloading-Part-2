@@ -11,7 +11,7 @@ rating - 1-10<br />
 
 ##### Operators
 str - print some nice output.<br />
-lt - compare the cores first, if the number of cores is equal then the compare the processor speed and then the cache.<br />
+lt - Compare the cores first, if the number of cores of self is less than the number of cores of other then lt is true. If the number of cores are equal then the compare the processor speed and then the cache in the same way.<br />
 eq - compare all of the attributes.<br />
 gt - opposite of lt.<br />
 in - check if the keyword is in any of the string attributes.<br />
