@@ -130,13 +130,11 @@ Hard Drives:
 Graphics Cards: 
 * EVGA GeForce GTX 1050 Ti SC GAMING
   * 4GB GDDR5 ram
-  * Intel core 2 processor 2.6GHz
-  * 12GB ram
+  * Intel core 2 processor 3.6GHz
   
 * Gigabyte Radeon Rx 460 Windforce
   * 4GB GDDR4 ram
   * Intel core 2 processor - 4GHz
-  * 16Gb ram
 
 Ram: 
 * 32Gb of Rambus<br />
