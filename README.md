@@ -27,7 +27,7 @@ rating - 1-10<br />
 
 ##### Operators
 str - print some nice output.<br />
-lt - compare size,  then transfer rate, and finally latency.<br />
+lt - compare size and then transfer rate.<br />
 eq - compare all of the attributes.<br />
 gt - opposite of lt.<br />
 in - check if the keyword is in any of the string attributes.<br />
