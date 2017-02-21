@@ -72,7 +72,7 @@ graphics card - graphics card class<br />
 rating - 1-10<br />
 
 str - print some nice output using the composed classes str operators<br />
-int - return .4*cpu rating + .2*ram rating + .2*hard drive rating + .2*graphics card rating  <br />
+int - return 4*cpu rating + 2*ram rating + 2*hard drive rating + 2*graphics card rating  <br />
 lt - compare the int value for the computer<br />
 eq - compare the int values.<br />
 gt - opposite of lt.<br />
